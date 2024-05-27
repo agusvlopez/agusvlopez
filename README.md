@@ -1,5 +1,5 @@
 # 💫 About Me
-Hello! 👋 I'm Agustina Lopez, an enthusiastic Full Stack developer from Argentina.<br><br>💡  I'm always seeking new opportunities to expand my knowledge and tackle challenges head-on.<br><br>💻 As a Full Stack developer, I've worked on diverse projects, ranging from crafting user interfaces to implementing robust backends. My focus is always on providing innovative, simple and efficient solutions.<br><br>👩‍💻 All of my projects are available at: https://my-portfolio-agusvlopez.vercel.app/<br><br>🔭 I’m currently working on - https://recipes-by-sam-project.vercel.app/<br><br>📫 How to reach me: agusvlopez@gmail.com<br>
+Hello! 👋 I'm Agustina Lopez, an enthusiastic Full Stack developer from Argentina.<br><br>💡  I'm always seeking new opportunities to expand my knowledge and tackle challenges head-on.<br><br>💻 As a Full Stack developer, I've worked on diverse projects, ranging from crafting user interfaces to implementing robust backends. My focus is always on providing innovative, simple and efficient solutions.<br><br>👩‍💻 All of my projects are available at: https://my-portfolio-agusvlopezs-projects.vercel.app/<br><br>🔭 I’m currently working on - https://recipes-by-sam-project.vercel.app/<br><br>📫 How to reach me: agusvlopez@gmail.com<br>
 
 
 ## 🌐 Socials:
